@@ -6,3 +6,4 @@ A project where will add the message "Hello World" in different programming lang
 * C
 * C++
 * Java
+* Python
