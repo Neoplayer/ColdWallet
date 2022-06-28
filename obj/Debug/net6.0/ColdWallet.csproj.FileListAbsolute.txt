@@ -1,0 +1,15 @@
+/workspaces/ColdWallet/bin/Debug/net6.0/ColdWallet
+/workspaces/ColdWallet/bin/Debug/net6.0/ColdWallet.deps.json
+/workspaces/ColdWallet/bin/Debug/net6.0/ColdWallet.runtimeconfig.json
+/workspaces/ColdWallet/bin/Debug/net6.0/ColdWallet.dll
+/workspaces/ColdWallet/bin/Debug/net6.0/ColdWallet.pdb
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.csproj.AssemblyReference.cache
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.AssemblyInfoInputs.cache
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.AssemblyInfo.cs
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.csproj.CoreCompileInputs.cache
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.dll
+/workspaces/ColdWallet/obj/Debug/net6.0/refint/ColdWallet.dll
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.pdb
+/workspaces/ColdWallet/obj/Debug/net6.0/ColdWallet.genruntimeconfig.cache
+/workspaces/ColdWallet/obj/Debug/net6.0/ref/ColdWallet.dll

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sb17WizoE6qq1Jy3nEoPaZWMYxWW9D/WMOFkEdfCzPlFLG4/ydhzcjClRwmoCLRlu9tAeSlpTuoHxnZdY8hP7w==",
+  "success": true,
+  "projectFilePath": "/workspaces/ColdWallet/ColdWallet.csproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.extensions.logging.abstractions/1.0.0/microsoft.extensions.logging.abstractions.1.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/var/nuget/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/var/nuget/nbitcoin/7.0.8/nbitcoin.7.0.8.nupkg.sha512",
+    "/var/nuget/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/var/nuget/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
+    "/var/nuget/system.collections.concurrent/4.0.12/system.collections.concurrent.4.0.12.nupkg.sha512",
+    "/var/nuget/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "/var/nuget/system.diagnostics.tracing/4.1.0/system.diagnostics.tracing.4.1.0.nupkg.sha512",
+    "/var/nuget/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
+    "/var/nuget/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/var/nuget/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
+    "/var/nuget/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/var/nuget/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/var/nuget/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "/var/nuget/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/var/nuget/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
+    "/var/nuget/system.runtime.handles/4.0.1/system.runtime.handles.4.0.1.nupkg.sha512",
+    "/var/nuget/system.runtime.interopservices/4.1.0/system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "/var/nuget/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/var/nuget/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
+    "/var/nuget/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
