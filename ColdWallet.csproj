@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="NBitcoin" Version="7.0.8" />
+    <PackageReference Include="QBitNinja.Client" Version="1.0.4" />
   </ItemGroup>
 
 </Project>

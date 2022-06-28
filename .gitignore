@@ -1,0 +1,16 @@
+obj/ColdWallet.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net6.0/ColdWallet.assets.cache
+obj/Debug/net6.0/ColdWallet.csproj.AssemblyReference.cache
+obj/Debug/net6.0/ColdWallet.csproj.CopyComplete
+obj/Debug/net6.0/ColdWallet.csproj.CoreCompileInputs.cache
+obj/Debug/net6.0/ColdWallet.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/ColdWallet.dll
+obj/Debug/net6.0/ColdWallet.pdb
+bin/Debug/net6.0/ColdWallet.deps.json
+bin/Debug/net6.0/ColdWallet.dll
+bin/Debug/net6.0/ColdWallet.pdb
+bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+bin/Debug/net6.0/NBitcoin.dll
+bin/Debug/net6.0/Newtonsoft.Json.dll
