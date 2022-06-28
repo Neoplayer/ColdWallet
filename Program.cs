@@ -7,17 +7,30 @@ namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program
     {
-        static Network BitcoinNetwork = Network.TestNet;
-
+        static string mnemonic = "toddler private insect clog auto panic good caught shop used lunar worry";
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! " + new Key().GetWif(Network.Main));
+            Console.WriteLine(GenerateAddress(mnemonic));
         }
+
+        public static string GenerateMnemonic()
+        {
+            return string.Join(' ', new Mnemonic(Wordlist.English, WordCount.Twelve).Words); 
+        }
+
+        public static string GenerateAddress(string mnemonic)
+        {
+            var mnemo = new Mnemonic(mnemonic, Wordlist.English);
+            var hdroot = mnemo.DeriveExtKey();
+            var pKey = hdroot.Derive(new KeyPath("m/84'/0'/0'/0/0"));
+            return pKey.PrivateKey.PubKey.GetAddress(ScriptPubKeyType.Segwit, Network.Main).ToString();
+        }
+
 
         public static bool SendBTC(string secret, string toAddress, decimal amount, string fundingTransactionHash, decimal minerFeeAmount)
         {
-            Network bitcoinNetwork = Network.TestNet;
+            Network bitcoinNetwork = Network.Main;
             var bitcoinPrivateKey = new BitcoinSecret(secret, bitcoinNetwork);
             var address = bitcoinPrivateKey.GetAddress(ScriptPubKeyType.Legacy);
 
